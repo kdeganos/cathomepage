@@ -3,26 +3,27 @@ h1 {
   font-size: 50px;
 }
 
-h3 {
+.post1{
   color: red;
-  font-family: cursive;
 }
 
-li {
-  font-family: monospace;
-  font-weight: 100;
+.post2{
+  color: green;
 }
 
-a {
-  color: purple;
-}
-
-p {
-  font-size: 100px
+.post3{
+  color: brown;
 }
 
 .Title{
   font-weight: bold;
   font-family: serif;
   background-color: gray;
+}
+
+.span{
+  font-weight: bold;
+  font-style: italic;
+  color: white;
+
 }
